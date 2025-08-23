@@ -1,6 +1,6 @@
 # **MVP de Ciência de Dados: Classificação da Qualidade de Vinhos**
 
-**Autor:** Seu Nome Completo
+**Autor:** Andre Luiz Marques Serrano
 **Data:** 23/08/2025
 
 ---
