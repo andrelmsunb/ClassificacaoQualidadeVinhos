@@ -1,9 +1,8 @@
 # MVP 3 - Ciência de Dados: Classificação da Qualidade de Vinhos
 
-**Discente:** Andre Luiz Marques Serrano  
+** Andre Luiz Marques Serrano  
 **Data:** 28/08/2025  
-**Curso:** Especialização em Ciência de Dados  
-**MVP:** Terceiro Mínimo Produto Viável  
+
 
 ---
 
