@@ -2,7 +2,6 @@
 
 **Discente:** Andre Luiz Marques Serrano  
 **Data:** 28/08/2025  
-**Curso:** Especialização em Ciência de Dados  
 
 
 ---
