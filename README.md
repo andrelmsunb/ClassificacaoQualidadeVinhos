@@ -341,7 +341,6 @@ Para trabalhos futuros, sugere-se:
 ---
 
 **Desenvolvido por:** Andre Luiz Marques Serrano  
-**Curso:** Especialização em Ciência de Dados  
 **MVP:** 3/N  
 **Data de Conclusão:** 23/08/2025
 
